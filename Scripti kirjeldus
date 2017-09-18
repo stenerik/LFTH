@@ -1,0 +1,2 @@
+./kaasutaja_parool users.txt - Teeb kasutajad ilma paroolita users.txt failist
+cat users1.txt | chpasswd - lisab paroolid kasutajatele
